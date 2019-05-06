@@ -5,3 +5,5 @@ paths:
 - "com/elasticbox/jenkins-ci/plugins/kubernetes-ci"
 developers:
 - "gsanchezu"
+- "julio_castanar"
+- "allyourbotsarebelongtous"
